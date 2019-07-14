@@ -1,0 +1,11 @@
+﻿<Window x:Class="WPF_MVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel VerticalAlignment="Center">
+            <TextBlock Text="{Binding model.NowTime}" Height="208" TextWrapping="WrapWithOverflow"></TextBlock>
+            <Button Command="{Binding PrintCmd}" Height="60" Width="100">Print Time</Button>
+        </StackPanel>
+    </Grid>
+</Window>

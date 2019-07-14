@@ -1,0 +1,13 @@
+E:\VS Forms\WPF_MVVM3\bin\Debug\WPF_MVVM3.exe
+E:\VS Forms\WPF_MVVM3\bin\Debug\WPF_MVVM3.pdb
+E:\VS Forms\WPF_MVVM3\obj\x86\Debug\MainWindow.g.cs
+E:\VS Forms\WPF_MVVM3\obj\x86\Debug\App.g.cs
+E:\VS Forms\WPF_MVVM3\obj\x86\Debug\WPF_MVVM3_MarkupCompile.cache
+E:\VS Forms\WPF_MVVM3\obj\x86\Debug\WPF_MVVM3_MarkupCompile.lref
+E:\VS Forms\WPF_MVVM3\obj\x86\Debug\MainWindow.baml
+E:\VS Forms\WPF_MVVM3\obj\x86\Debug\WPF_MVVM3.g.resources
+E:\VS Forms\WPF_MVVM3\obj\x86\Debug\WPF_MVVM3.Properties.Resources.resources
+E:\VS Forms\WPF_MVVM3\obj\x86\Debug\WPF_MVVM3.csproj.GenerateResource.Cache
+E:\VS Forms\WPF_MVVM3\obj\x86\Debug\WPF_MVVM3.exe
+E:\VS Forms\WPF_MVVM3\obj\x86\Debug\WPF_MVVM3.pdb
+E:\VS Forms\WPF_MVVM3\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
